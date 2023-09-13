@@ -1,0 +1,49 @@
+.bar{
+    margin-top: -1px;
+    display: flex;
+    width: 270px;
+    height: 20px;
+    min-height: 20px;
+    background-color: rgb(229, 250, 253);
+    border-bottom: 1px solid black;
+}
+
+.heading{
+    margin: 1px 5px;
+    padding: 0px;
+}
+.wifi{
+    margin-left: 4px;
+}
+
+.time{
+    margin: 0px;
+    padding: 0px;
+    margin: auto;
+    color: #2e3639;
+    font-size: 1rem;
+}
+.battery{
+    width: 22px;
+    height: 20px;
+}
+.right-container-nav{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+}
+.pauseplaynav{
+    font-size: 15px;
+    margin: 0px;
+    margin-right: 8px;
+    padding: 0px;
+    text-align: center;
+    color: #039BE5;
+}
+.notification{
+    color: #039BE5;
+    margin: 1px;
+    margin:auto;
+    padding: 0px;
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+.songs{
+    height: 190px;
+    background-color: rgb(229, 250, 253);
+    /* scroll-behavior: smooth; */
+    overflow: scroll;
+}
+.songs ::-webkit-scrollbar{
+    display: none;
+}
+.ulsong{
+    margin-top: -10px;
+    width: 100%;
+    padding: 0px;
+    list-style: none;
+}
+.lisong{
+    padding: 4px 0px;
+}
+.songheading{
+    
+    text-align: center;
+}
+.active{
+    padding-left: 5px;
+    position: relative;
+    background-color: rgb(108, 198, 240);
+    color: white;
+ }
+ .active::after{
+     position: absolute;
+     content: ">";
+     right: 5px;
+ }

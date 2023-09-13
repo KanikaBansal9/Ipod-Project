@@ -1,0 +1,52 @@
+/* //dropdown information on controls */
+
+.dropdowndiv{
+    top:-520px;
+    position: fixed;
+    z-index:2;
+    transition: all 0.3s ease-in-out;
+    height: max-content;
+    color: white;
+    padding: 5px;
+    margin-left: -6px;
+}
+
+p{
+    margin: 2px;
+    
+}
+h3{
+    text-align: center;
+    
+}
+.infodiv{
+    padding:3px 8px;
+    box-sizing: border-box;
+    line-height: 25px;
+    font-size: 16px;
+    max-width: 300px;
+    max-height: 560px;
+    background-color: rgb(31, 31, 49);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+#info-btn{
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+    color: #f0f5f9;
+    background-color: #212121;
+    padding: 8px 10px;
+    box-sizing: border-box;
+    margin: 10px 0px;
+    margin-left: 70px;
+   
+}
+#info-btn:hover{
+    background-color: rgb(211, 211, 221);
+    color: rgb(31, 31, 49);
+    box-shadow: 5px 10px #888888;
+}

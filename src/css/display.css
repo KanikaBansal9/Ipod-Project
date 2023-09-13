@@ -1,0 +1,25 @@
+.display{
+    background-size: cover;
+    background-position: center;
+    width: 270px;
+    height: 210px;
+    border: 1.5px solid rgb(101, 98, 98);
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+
+}
+.emptydiv{
+    width: 270px;
+    height: 200px;
+    background-color:rgb(229, 250, 253) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.emptyheading{
+     margin: 5px;
+     text-align: center;
+}

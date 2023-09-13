@@ -1,0 +1,21 @@
+.lockdisplay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.3;
+    width: 270px;
+    height: 190px;
+    background-color: white;
+    font-size: 100px;
+}
+
+/* .bottomlock{
+    position: absolute;
+    width: 270px;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+} */
