@@ -1,3 +1,23 @@
+A Virtual i-pod using React JS.
+
+# FEATURES
+1. Gesture Simulation.
+2. Zingtouch- A JavaScript gesture detection library for the modern web is used for user touch interactions. 
+3. Instructions are mentioned on the screen. No room for any type of confusion.
+4. Themes,wallpaper and wheel of the ipod can be changed according to the preference.
+5. Easy Navigation.
+6. Lightening fast React JS based app.
+7. Songs can be switched without going to the All Songs screen again and again. (using the left and right arrow buttons provided in the Circular Actions Button Section).
+
+# SCREENSHOTS
+A few Snapshots of the UI - 
+
+![image](https://github.com/KanikaBansal9/Ipod-Project/assets/89685990/f7c31468-c4a5-4b1c-babf-69636fb0377c)
+![image](https://github.com/KanikaBansal9/Ipod-Project/assets/89685990/16456463-c40e-4d6a-8192-5a32e9b5ab41)
+![image](https://github.com/KanikaBansal9/Ipod-Project/assets/89685990/3e49f53d-a1d9-41d6-8fa7-c386ff410747)
+![image](https://github.com/KanikaBansal9/Ipod-Project/assets/89685990/6699519b-0ce3-445d-9408-aff098077800)
+![image](https://github.com/KanikaBansal9/Ipod-Project/assets/89685990/e3799ada-610b-430c-92c7-f52e31e13716)
+![image](https://github.com/KanikaBansal9/Ipod-Project/assets/89685990/fc93c0b4-3b93-4acb-94a9-4eda25b1a1a4) 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
