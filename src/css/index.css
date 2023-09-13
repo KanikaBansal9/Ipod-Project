@@ -2,7 +2,11 @@ body {
     display: flex;
     width: 100vw;
     height: 90vh;
-    background-color: rgb(206, 206, 206);
+/*     background-color: rgb(206, 206, 206); */
+    background-image: url('../assets/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
     justify-content: center;
     align-items: center;
     margin: 0;
